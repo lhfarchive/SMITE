@@ -1,0 +1,9 @@
+name: SMITE
+main: me.Icelaunche.SMITE.Smite
+version: 1.0
+description: Smite player or block.
+commands:
+  smite:
+    description: Lightning.
+  
+    
