@@ -1,4 +1,6 @@
 name: SMITE
+Author: Icelaunche
+Maintainer: Lukeflynn1217
 main: me.Icelaunche.SMITE.Smite
 version: 1.0
 description: Smite player or block.
